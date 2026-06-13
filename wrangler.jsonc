@@ -17,8 +17,8 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db",
-            "database_id": "9eda31f3-5119-4369-a8a3-b18bfea51269"
+            "database_name": "daohang",
+            "database_id": "759a109f-589e-47a9-8a8f-e578ac6cd4c1"
         }
     ],
     "vars": {
